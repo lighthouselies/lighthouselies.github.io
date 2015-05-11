@@ -1,0 +1,44 @@
+
+body {
+	text-align: center;
+	font-family: VT323;
+}
+
+p {
+	text-align: justify;
+}
+
+#header {
+	border-bottom: #CDCDCD solid 1px;
+	width: 100%;
+	margin-bottom: 2rem;
+}
+
+#byline {
+	text-align: center;
+}
+
+#img-wrapper {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+img {
+	width: 100%;
+	margin: 1rem 0 1rem 0;
+}
+
+/* Small devices */
+@media (min-width: 768px) {
+	body {
+		font-size: 18px;
+	}	
+}
+
+/* Medium devices */
+@media (min-width: 992px) {
+
+}
+
+/* Large devices */
+@media (min-width: 1200px) { ... }
